@@ -10,6 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
+            "python": "C:\\Users\\weilim\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
             "justMyCode": true
         }
     ]
