@@ -1,0 +1,17 @@
+{
+    "name": "Azure Developer CLI",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/python:1": {
+            "version": "os-provided"
+        }
+    },
+    "extensions": [
+        "ms-python.python"
+    ],
+    "postCreateCommand": "",
+    "remoteUser": "vscode",
+    "hostRequirements": {
+        "memory": "8gb"
+    }
+}
